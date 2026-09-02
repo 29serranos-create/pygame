@@ -111,3 +111,4 @@ The test runner will list each excluded module along with the tag responsible.
    .. ## pygame.tests.run ##
 
 .. ## pygame.tests ##
+python3 main.py "/path/to/Headlines.mp3"
